@@ -1,7 +1,6 @@
 /* http://meyerweb.com/eric/tools/css/reset/ 2. v2.0 | 20110126
   License: none (public domain)
 */
-
 .btn{
     border-radius: 5px;
     display: inline-block;
@@ -14,6 +13,7 @@
 .hero{
     padding: 22px 80px 66px 80px;
 }
+
 
 h1, h3, h4, h5, p{
     margin-bottom: 22px
@@ -53,6 +53,7 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
